@@ -1,0 +1,20 @@
+/* ===== RESET DE ESTILO ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* ===== VARIÁVEIS ===== */
+  :root {
+    --primary-color: #0057ff;
+    --font-size: 16px;
+  }
+  
+  /* ===== COMPONENTES ===== */
+  .button {
+    background: var(--primary-color);
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+      
